@@ -6,7 +6,7 @@
 Situs Budaya Indonesia | Pariwisata, Seni, Tradisi & Kuliner
 ==================
 
-`ragam budaya indonesia <https://www.indonesiakaya.com/>`_ - Situs Indonesia Kaya merupakan portal informasi budaya Indonesia yang bertujuan memperkenalkan dan memberikan informasi kepada masyarakat umum mengenai kekayaan kebudayaan yang dimiliki Indonesia.
+`Ragam budaya indonesia <https://www.indonesiakaya.com/>`_ - Situs Indonesia Kaya merupakan portal informasi budaya Indonesia yang bertujuan memperkenalkan dan memberikan informasi kepada masyarakat umum mengenai kekayaan kebudayaan yang dimiliki Indonesia.
 
 Indonesia merupakan salah satu negara yang terkenal akan pesona alamnya yang sangat indah. Tidak hanya terkenal didalam negeri saja, lebih dari itu pesona keindahannya sudah terkenal ke mancanegara. Bahkan yang lebih hebatnya, negara indonesia bukan terkenal lagi akan pesona alamnya, melainkan sudah terkenal akan kebudayaannya yang sudah melanglang buana. Berikut ini adalah beberapa budaya Indonesia yang mendunia:
 
@@ -23,16 +23,16 @@ Siapa yang tak kenal dengan jenis alat musik bambu yang satu ini. Angklung merup
 Kuliner Khas Indonesia
 ==================
 
-`masakan kuliner indonesia <https://www.indonesiakaya.com/jelajah-indonesia/kuliner>`_ - Indonesia merupakan negara kepulauan yang kaya akan kebudayaan dan keindahan alamnya. Selain menyimpan berbagai macam kekayaan alam sebagai tempat wisata negara Indonesia juga terkenal dengan wisata kulinernya. Ada beberapa jenis makanan khas Indonesia yang sangat terkenal bahkan sudah mendunia. Berbagai macam rempah yang melimpah di Indonesia mampu membuat makanan-makanan khas Indonesia memiliki cita rasa yang menggoda.
+`Masakan kuliner indonesia <https://www.indonesiakaya.com/jelajah-indonesia/kuliner>`_ - Indonesia merupakan negara kepulauan yang kaya akan kebudayaan dan keindahan alamnya. Selain menyimpan berbagai macam kekayaan alam sebagai tempat wisata negara Indonesia juga terkenal dengan wisata kulinernya. Ada beberapa jenis makanan khas Indonesia yang sangat terkenal bahkan sudah mendunia. Berbagai macam rempah yang melimpah di Indonesia mampu membuat makanan-makanan khas Indonesia memiliki cita rasa yang menggoda.
 
 Tempat Pariwisata Indonesia
 ==================
 
-`portal pariwisata indonesia <https://www.indonesiakaya.com/jelajah-indonesia/pariwisata>`_ - Indonesia sangat dikenal dengan keanekaragaman budaya dan wisatanya. Persebaran suku dan ras yang beraneka ragam membuat Indonesia kaya akan berbagai kebudayaan pada tiap masing-masing daerah. Salah satunya adalah kebudayaan tarian yang hampir ada pada setiap daerah di Indonesia. Tari tradisional dari berbagai daerah di Indonesia menjadi salah satu warisan budaya lokal yang sampai sekarang masih bisa kita nikmati. 
+`Portal pariwisata indonesia <https://www.indonesiakaya.com/jelajah-indonesia/pariwisata>`_ - Indonesia sangat dikenal dengan keanekaragaman budaya dan wisatanya. Persebaran suku dan ras yang beraneka ragam membuat Indonesia kaya akan berbagai kebudayaan pada tiap masing-masing daerah. Salah satunya adalah kebudayaan tarian yang hampir ada pada setiap daerah di Indonesia. Tari tradisional dari berbagai daerah di Indonesia menjadi salah satu warisan budaya lokal yang sampai sekarang masih bisa kita nikmati. 
 
 Portal Seni dan Budaya Indonesia
 ==================
-`portal kesenian indonesia <https://www.indonesiakaya.com/jelajah-indonesia/kesenian>`_ & - `portal tradisi budaya <https://www.indonesiakaya.com/jelajah-indonesia/tradisi>`_ - Indonesia merupakan negara kepulauan yang memiliki adat budaya yang sangat beragam. Salah satu budaya yang terkenal adalah kesenian. Kesenian Indonesia merupakan sarana yang digunakan untuk mengekspresikan rasa keindahan dalam jiwa manusia. Serta mempererat ikatan solidaritas antara masyarakat dan daerah. Setiap daerah memiliki kesenian yang berbeda-beda dengan ciri khas yang beragam. Berikut ini 5 contoh kesenian Indonesia dari berbagai daerah yang layak untuk Anda ketahui:
+`Portal kesenian indonesia <https://www.indonesiakaya.com/jelajah-indonesia/kesenian>`_ & `Portal tradisi budaya <https://www.indonesiakaya.com/jelajah-indonesia/tradisi>`_ - Indonesia merupakan negara kepulauan yang memiliki adat budaya yang sangat beragam. Salah satu budaya yang terkenal adalah kesenian. Kesenian Indonesia merupakan sarana yang digunakan untuk mengekspresikan rasa keindahan dalam jiwa manusia. Serta mempererat ikatan solidaritas antara masyarakat dan daerah. Setiap daerah memiliki kesenian yang berbeda-beda dengan ciri khas yang beragam. Berikut ini 5 contoh kesenian Indonesia dari berbagai daerah yang layak untuk Anda ketahui:
 
 1. Kuda Lumping
 ==================
@@ -52,6 +52,6 @@ Dalam pertunjukkannya, debus memperlihatkan aksi pencak silat yang berhubungan d
 4. Tari Saman
 ==================
 
-Tari saman merupakan tarian asal suku Gayo yang berada di Aceh. Didirikan oleh seorang ulama besar yaitu Syekh Saman. Pada mulanya tari ini hanya sekedar permainan rakyat yang disebut Pok Ane. Kemudian muncul Islam ke Gayo dan menyebabkan perubahan pada tari Saman terutama pada gerakan tari hingga lagu pengiringnya. Lagu pengiring tari saman ini memiliki makna kebanggaan untuk Allah. Selain itu kesenian Indonesia ini digunakan untuk menyampaikan pesan, nasihat atau dakwah.
+`Tari saman <https://www.indonesiakaya.com/jelajah-indonesia/detail/tari-saman>`_ merupakan tarian asal suku Gayo yang berada di Aceh. Didirikan oleh seorang ulama besar yaitu Syekh Saman. Pada mulanya tari ini hanya sekedar permainan rakyat yang disebut Pok Ane. Kemudian muncul Islam ke Gayo dan menyebabkan perubahan pada tari Saman terutama pada gerakan tari hingga lagu pengiringnya. Lagu pengiring tari saman ini memiliki makna kebanggaan untuk Allah. Selain itu kesenian Indonesia ini digunakan untuk menyampaikan pesan, nasihat atau dakwah.
 
-- `tips modifikasi otomotif indonesia <https://otomotif.readthedocs.io/en/latest/>`_
+- `Modifikasi otomotif indonesia <https://otomotif.readthedocs.io/en/latest/>`_
